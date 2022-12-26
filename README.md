@@ -151,4 +151,4 @@ Exe59. Dada a seguinte arvore binária de palavras, faça uma função que busqu
 
 Exe60. Dado o array de números inteiros [1, 15, 2, 7, 2, 5, 7, 1, 4] crie uma função que recebe um argumento X e retorne true ou false caso haja no array uma combinação de soma entre dois números que resulte no input X. Exemplo: Se X=2, a função deve retornar true pois existem dois números 1 dentro do array 1+1 = 2. Caso X=1231 a função deve retornar false pois não existe uma combina de dois números capazes de somar 1231.
 
-Exe70. Dado o array [9, 2, 3, 1, 4] encontre todos os números que estão faltando para completar o intervalo 0 a n, onde n é o maior número dentro do array. Adicione os números faltando dentro do array. 
+Exe61. Dado o array [9, 2, 3, 1, 4] encontre todos os números que estão faltando para completar o intervalo 0 a n, onde n é o maior número dentro do array. Adicione os números faltando dentro do array. 
