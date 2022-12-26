@@ -139,15 +139,15 @@ Exe58. Dado o Array de inteiros abaixo, ordene-o de tal forma que os números �
 
 Exe59. Dada a seguinte arvore binária de palavras, faça uma função que busque nessa arvore pela palavra-chave. O output da sua função deve ser o caminho até chegar no item procurado. Por exemplo, se o input de buscar for “goiaba” o output deve ser uma string “Maça -> morango -> Goiaba”.
 
-				  Maça
-				/	\
-		     Morango       Pera
-		    /     \	        |	
-	    Goiaba	  Limão	Abacaxi
-				        |
-					Laranja	
-					/	\
-				Banana	Cebola
+				   Maça
+				  /	\
+			     Morango     Pera
+		   	    /     \	     \	
+	    		Goiaba	  Limão	      Abacaxi
+				        	\
+						Laranja	
+						/	\
+					    Banana	Cebola
 
 Exe60. Dado o array de números inteiros [1, 15, 2, 7, 2, 5, 7, 1, 4] crie uma função que recebe um argumento X e retorne true ou false caso haja no array uma combinação de soma entre dois números que resulte no input X. Exemplo: Se X=2, a função deve retornar true pois existem dois números 1 dentro do array 1+1 = 2. Caso X=1231 a função deve retornar false pois não existe uma combina de dois números capazes de somar 1231.
 
